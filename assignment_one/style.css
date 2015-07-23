@@ -2,15 +2,22 @@ body{
 	background-color: white;
 }
 
-#outerbox{
+.outerbox{
 
 	
 	height: 780px;
 	margin:0 auto;
 	width: 1300px;
-}
 
-#logo{
+}
+a{
+	font-weight: bold;
+font-family:Arial,sans-serif;
+font-size: 32px;
+margin-left: 8px;
+
+}
+.logo{
 
 font-weight: bold;
 font-family:Arial,sans-serif;
@@ -18,38 +25,41 @@ margin-left: 10px;
 margin-top: 10px;
 }
 
-#banner{
+.banner{
 	background-color:#a8a8a8;
 	font-family:Arial;
 	font-weight: bold;
 	font-size: 40px;
 	text-align: center;
-	padding:60px;
+	padding:75px;
 
 }
 
-#content{
+.content{
 
 	margin-left: 20px;
 	margin-right: 15px;
 }
 
-.para{
+
+
+p{
 	font-size: 14px;
 	font-family: Arial;
 	line-height: 20px;
-
 }
 
-#subtitle{
-	font-size: 20px;
-	font-weight: normal;
-}
 
-#title{
+h2{
 
     margin-top: 15px;
 	font-size: 30px;
+	font-family: Arial;
+	font-weight: normal;
+}
+h3{
+	font-size: 16px;
+	font-weight: normal;
 	font-family: Arial;
 }
 
