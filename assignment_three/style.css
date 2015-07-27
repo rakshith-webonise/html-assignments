@@ -1,0 +1,221 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	 background-color:#ffffff;
+	 
+}
+
+body{
+	margin: 0;
+}
+
+
+.container{ 
+	width: 940px;
+	margin:0 auto;
+	
+}
+
+.logo{
+	width: 135px;
+	height: 55px;
+	background-color: #ff8000;
+	float:left;
+	text-decoration: none;
+
+
+}
+
+.clear{
+	clear:both;
+	margin: 0;
+}
+
+header li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+.container li{
+	text-decoration: none;
+	float:left;
+	margin-left: 30px;
+}
+
+.container ul{
+	float:left;
+	padding: 0px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+.banner{
+	background-color: #000;
+	
+}
+
+.banner .container{
+	position: relative;
+}
+
+.banner img{
+	width: 940px;
+	
+}
+
+.banner h1{
+	font-family: sans-serif;
+	font-size: 44px;
+	color:#ffffff;
+	position: absolute;
+	float: left;
+	bottom:35px;
+	left:0px;
+
+}
+
+.banner h6{
+	
+	color:#ffffff;
+	float:left;
+	font-size: 22px;
+	margin: 0px;
+	bottom:10px;
+	left:0px;
+	position: absolute;
+	font-weight: normal;
+}
+
+.banner2{
+background-color:#ecab1f;
+
+}
+
+
+.square{
+
+	float:left;
+	width: 220px;
+    height: 60px;
+    border-radius: 8px;
+	background: #efefef;.
+
+}
+
+.banner2 a{
+	text-decoration: none;
+}
+
+.banner2 .container ul{
+	float:left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+
+.banner2 .container li{
+	text-decoration: none;
+	float:left;
+	margin-right: 20px;
+	margin-left: 0px;
+}
+
+.banner2 .container li:last-child{
+	margin-right: 0px;
+
+}
+
+.banner2_text{
+float:left;
+font-family:sans-serif;
+padding-top:17px;
+padding-left:12px;
+color:#000;
+}
+
+.banner3{
+	background-color:#fff;
+	
+}
+
+
+.banner3 .container h2{
+
+	font-size: 40px;
+	font-family: sans-serif;
+	color: #888888;
+	margin-top: 60px;
+	margin-bottom: 7px;
+}
+
+.banner3 .container ul{
+	float:left;
+	margin-left: 0px;
+	margin-bottom:90px;
+}
+
+.banner3 .container li{
+	margin-left:0px;
+	float: left;
+	margin-right: 20px;
+	background-color:#4466ff;
+}
+
+.banner3 .container li:last-child{
+	margin-right: 0px;
+}
+
+.banner2 .container img{
+	float: right;
+	padding-top: 14px;
+	padding-right:10px;
+}
+
+.subtitle{
+font-size:11px;
+font-family:sans-serif;
+color:#fff;
+    padding-top: 15px;
+    padding-left: 10px;
+    display: block;
+}
+
+
+.title{
+	color:#fff;
+	font-family:sans-serif;
+font-size: 18px;
+    display: block;
+	padding-top:5px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+.banner3 .container a{
+text-decoration:none;
+}
+
+.search_text{
+	border:0px;
+}
+
+.search_image{
+height: 15px;
+
+}
+
+form{
+float:right;
+border:solid;
+border-width:2px;
+border-radius:5px;
+width:200px;
+height:20px;
+margin-top: 15px;
+}
